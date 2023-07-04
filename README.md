@@ -1,10 +1,10 @@
 # Minting and Burning of token
 This solidity program is simple creation of "token" this simple program will mint and burn token. The purpose of this program is to create a simple minting and burning of token.
 
-#Description
+# DESCRIPTION
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract have two functions, minting and burning of tokens. This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
 
-#Getting Started
+# GETTING STARTED
 Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
@@ -54,3 +54,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "mint" contract from the dropdown menu, and then click on the "Deploy" button second is select the "burn" contract from the dropdown menu, and then click on the deploy.
 
 Once the contract is deployed. It will now give you the totalSupply of your token.
+
+# AUTHORS
+BSIT 2.1 CARLO AVISO
+@NATIONAL TEACHERS COLLEGE
